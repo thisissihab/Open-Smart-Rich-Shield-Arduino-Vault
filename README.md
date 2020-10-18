@@ -1,1 +1,1 @@
-# Open-Smart-Rich-Shield-Arduino-Vault
+To find more about this project visit:
